@@ -200,3 +200,7 @@ header ul li {
 .rht {
     float : right;
 }
+.row3 a {
+    color : orange;
+    text-decoration: none;
+}
